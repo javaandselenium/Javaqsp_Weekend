@@ -3,7 +3,7 @@ package methods;
 public class Test3 {
 	
 	static int r=8;
-	static double pi=3.143;
+	final static double pi=3.143;
 	
 	public static void areaofcircle()
 	{
